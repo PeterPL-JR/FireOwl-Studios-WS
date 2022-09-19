@@ -1,0 +1,60 @@
+body
+{
+    text-align: center;
+    background-image: url("assets/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: main;
+    font-size: 80px;
+    text-shadow: 0 10px black, black 1px 0 10px, black 1px 0 10px;
+}
+#header
+{
+    margin: 0 auto -50px auto;
+    padding: 10px 0 10px 0;
+    background-image: url("assets/gradient_black.png");
+}
+p
+{
+    text-shadow: 0 5px black, black 1px 0 10px, black 1px 0 10px;
+    margin-top: -20px;
+    padding: 0 250px 0 250px;
+    font-size: 40px;
+    font-family: sub;
+}
+hr
+{
+    background-color: white;
+    color: white;
+    width: 500px;
+    height: 2px;
+    outline: solid black 2px;
+}
+img
+{
+    margin-top: 30px;
+    width: 800px;
+}
+a:link
+{
+    color: white;
+    text-decoration: none;
+}
+a:visited
+{
+  color: white;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #3B0F70;
+  text-decoration: none;
+  text-shadow: 0 10px #150528, black 1px 0 10px, black 1px 0 10px;
+}
+a:active
+{
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 10px #150528, black 1px 0 10px, black 1px 0 10px;
+}
