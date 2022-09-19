@@ -32,15 +32,15 @@ img
 }
 #main:link
 {
-    color: #3B0F70;
+    color: #FF7200;
     text-decoration: none;
-    text-shadow: 0 5px #150528, black 1px 0 10px, black 1px 0 10px;
+    text-shadow: 0 5px #440300, black 1px 0 10px, black 1px 0 10px;
 }
 #main:visited
 {
   color: #3B0F70;
   text-decoration: none;
-  text-shadow: 0 5px #150528, black 1px 0 10px, black 1px 0 10px;
+  text-shadow: 0 5px #440300, black 1px 0 10px, black 1px 0 10px;
 }
 #main:hover
 {
@@ -50,7 +50,7 @@ img
 }
 #main:active
 {
-  color: #3B0F70;
+  color: #FF7200;
   text-decoration: none;
   text-shadow: 0 5px black, black 1px 0 10px, black 1px 0 10px;
 }
